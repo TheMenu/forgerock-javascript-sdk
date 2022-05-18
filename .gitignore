@@ -43,7 +43,6 @@ samples/*/users
 !samples/reactjs-todo/*/todos
 
 # Environment files
-.env
 .env.local
 .angular
 samples/**/.env.local
